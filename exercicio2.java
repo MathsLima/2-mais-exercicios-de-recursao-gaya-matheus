@@ -1,3 +1,5 @@
+//Modele e implemente um método recursivo que calcule o somatório de um número n (passado como parâmetro) até 0.
+
 public class exercicio2 {
     public static int som(int n){
         if (n==0){

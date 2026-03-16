@@ -1,3 +1,5 @@
+//Modele e implemente um método recursivo que recebe um String em retorna true se este String for um palíndrome, false caso contrário.
+
 public class exercicio5 {
     static boolean isPal(String s) {
         if (s.length() <= 1)

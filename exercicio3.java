@@ -1,3 +1,5 @@
+//Modele e implemente um método recursivo que calcule o n-ésimo número da sequência de fibonacci.
+
 public class exercicio3 {
     public static int fibo(int n){
 	if (n <= 0)

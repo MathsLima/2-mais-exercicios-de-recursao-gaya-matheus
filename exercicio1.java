@@ -1,3 +1,5 @@
+//Modele e implemente um método recursivo que calcule o fatorial de um número n passado como parâmetro.
+
 public class exercicio1 {
     public static int fatorial(int n){
         if (n==0 || n==1){
